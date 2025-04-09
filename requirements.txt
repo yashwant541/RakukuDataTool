@@ -1,0 +1,11 @@
+# requirements.txt
+
+# GUI Script dependencies
+tk
+Pillow
+
+# Dummy Data Generator Script dependencies
+pandas
+faker
+openpyxl
+Cython
